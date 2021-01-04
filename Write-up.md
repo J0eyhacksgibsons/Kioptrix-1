@@ -32,4 +32,4 @@ You should get a shell\
 then try things like:\
 ```whoami```\
 ```hostname```\
-So that was it for this machine, I hope y'all learned something or more and hopefully there will be more content.\
+So that was it for this machine, I hope y'all learned something or more and hopefully there will be more content.
